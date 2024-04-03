@@ -13,6 +13,7 @@
 		4F4D256C2BB31F1D0052D264 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4F4D256B2BB31F1D0052D264 /* Base */; };
 		4F4D256E2BB31F1E0052D264 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F4D256D2BB31F1E0052D264 /* Assets.xcassets */; };
 		4F4D25712BB31F1E0052D264 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4F4D25702BB31F1E0052D264 /* Base */; };
+		4F4D25792BB323480052D264 /* PrefecturesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F4D25782BB323480052D264 /* PrefecturesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4F4D256D2BB31F1E0052D264 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F4D25702BB31F1E0052D264 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F4D25722BB31F1E0052D264 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F4D25782BB323480052D264 /* PrefecturesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrefecturesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4F4D25642BB31F1D0052D264 /* AppDelegate.swift */,
 				4F4D25662BB31F1D0052D264 /* SceneDelegate.swift */,
 				4F4D25682BB31F1D0052D264 /* ViewController.swift */,
+				4F4D25782BB323480052D264 /* PrefecturesTableViewController.swift */,
 				4F4D256A2BB31F1D0052D264 /* Main.storyboard */,
 				4F4D256D2BB31F1E0052D264 /* Assets.xcassets */,
 				4F4D256F2BB31F1E0052D264 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				4F4D25692BB31F1D0052D264 /* ViewController.swift in Sources */,
 				4F4D25652BB31F1D0052D264 /* AppDelegate.swift in Sources */,
+				4F4D25792BB323480052D264 /* PrefecturesTableViewController.swift in Sources */,
 				4F4D25672BB31F1D0052D264 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
