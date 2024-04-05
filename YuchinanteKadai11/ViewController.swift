@@ -36,7 +36,7 @@ class ViewController: UIViewController, PrefecturesViewControllerDelegate {
     }
 
     // 戻るボタンがタップされたときに呼ばれるメソッド
-    @IBAction func didTapBackButton(segue:UIStoryboardSegue){
+    @IBAction func didTapBackButton(segue: UIStoryboardSegue) {
         }
 }
 
