@@ -35,7 +35,7 @@ class PrefecturesTableViewController: UIViewController, UITableViewDataSource, U
     ]
 
     // セクション内の行数を返すメソッド
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int{
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return prefecturesList.count
     }
 
